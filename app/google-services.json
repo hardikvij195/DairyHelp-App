@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397101131474",
+    "firebase_url": "https://dairyhelp-3dd86.firebaseio.com",
+    "project_id": "dairyhelp-3dd86",
+    "storage_bucket": "dairyhelp-3dd86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397101131474:android:8be36644b490a24d1f2f0b",
+        "android_client_info": {
+          "package_name": "com.example.dairyhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397101131474-u963ecgmahikfut8mqroiu91oeja1qgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrj3vhZ0zMFiwU1uCQrqO5VQG3BXKwYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397101131474-u963ecgmahikfut8mqroiu91oeja1qgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

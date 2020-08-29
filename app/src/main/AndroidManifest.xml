@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dairyhelp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".User_View_Orders"></activity>
+        <activity android:name=".User_Main_Page" />
+        <activity android:name=".UserProfilePage" />
+        <activity android:name=".Shopkeeper_View_User_Orders" />
+        <activity android:name=".Shopkeeper_View_Retailer_Orders" />
+        <activity android:name=".Retailer_View_Shop_Orders" />
+        <activity android:name=".Retailer_View_Wholesaler_Orders" />
+        <activity android:name=".Wholesaler_View_Dairy_Orders" />
+        <activity android:name=".Admin_Create_Shop" />
+        <activity android:name=".ShopkeeperSide" />
+        <activity android:name=".UserLoginAct" />
+        <activity android:name=".Wholesaler_View_Retailer_Orders" />
+        <activity android:name=".Dairy_View_Wholesaler_Orders" />
+        <activity android:name=".Admin_Create_Retailer" />
+        <activity android:name=".Admin_Create_Wholesaler" />
+        <activity android:name=".Admin_Create_Dairy" />
+        <activity android:name=".AdminActivity" />
+        <activity android:name=".RetailersSide" />
+        <activity android:name=".WholesalerSide" />
+        <activity android:name=".DairySide" />
+        <activity android:name=".FirstPage" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

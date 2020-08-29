@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#3700B3</color>
+
+    <color name="colorBlue">#1884b8</color>
+    <color name="materialyellow1">#FFC107</color>
+    <color name="primarycolordarkcardview">#FFA000</color>
+    <color name="backgroundcolorcardview">#fcfcfc</color>
+    <color name="lightgreyline">#ededed</color>
+    <color name="redcolor">#d52525</color>0
+    <color name="deeppurple">#7c4dff</color>
+    <color name="materialyellow">#ffb300</color>
+    <color name="materialgreen">#00bfa5</color>
+    <color name="pinkaccent">#ff4081</color>
+</resources>
